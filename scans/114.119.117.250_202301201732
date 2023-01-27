@@ -1,0 +1,33 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-01-20 17:32 PST
+NSE: Loaded 45 scripts for scanning.
+Initiating Ping Scan at 17:32
+Scanning 114.119.117.250 [4 ports]
+Completed Ping Scan at 17:32, 0.55s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 17:32
+Completed Parallel DNS resolution of 1 host. at 17:32, 0.17s elapsed
+Initiating SYN Stealth Scan at 17:32
+Scanning 114.119.117.250 [1000 ports]
+SYN Stealth Scan Timing: About 41.10% done; ETC: 17:33 (0:00:44 remaining)
+Completed SYN Stealth Scan at 17:33, 42.39s elapsed (1000 total ports)
+Initiating Service scan at 17:33
+Initiating OS detection (try #1) against 114.119.117.250
+NSE: Script scanning 114.119.117.250.
+Initiating NSE at 17:33
+Completed NSE at 17:33, 0.00s elapsed
+Initiating NSE at 17:33
+Completed NSE at 17:33, 0.00s elapsed
+Nmap scan report for 114.119.117.250
+Host is up (0.34s latency).
+Not shown: 999 filtered ports
+PORT    STATE  SERVICE VERSION
+113/tcp closed ident
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: OpenBSD 4.X
+OS CPE: cpe:/o:openbsd:openbsd:4.0
+OS details: OpenBSD 4.0, OpenBSD 4.3
+
+Read data files from: /usr/bin/../share/nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 47.08 seconds
+           Raw packets sent: 2039 (91.210KB) | Rcvd: 25 (1.234KB)

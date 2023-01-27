@@ -1,0 +1,91 @@
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '114.119.0.0 - 114.119.127.255'
+
+% Abuse contact for '114.119.0.0 - 114.119.127.255' is 'sherry998877@163.com'
+
+inetnum:        114.119.0.0 - 114.119.127.255
+netname:        SACCL
+descr:          Shenzhen Aosida Communication Co., Ltd.
+descr:          808,8th Building,No 4 Nanyou Industry,NanShan District
+country:        CN
+org:            ORG-SACC1-AP
+admin-c:        SACC1-AP
+tech-c:         SACC1-AP
+abuse-c:        AS2945-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-SACCL-CN
+mnt-routes:     MAINT-SACCL-CN
+mnt-irt:        IRT-SACCL-CN
+last-modified:  2021-01-10T21:57:40Z
+source:         APNIC
+
+irt:            IRT-SACCL-CN
+address:        808,8th Building,No 4 Nanyou Industry,NanShan District, ShenZhen Guangdong Province 518000
+e-mail:         sherry998877@163.com
+abuse-mailbox:  sherry998877@163.com
+admin-c:        SACC1-AP
+tech-c:         SACC1-AP
+auth:           # Filtered
+remarks:        sherry998877@163.com is invalid
+mnt-by:         MAINT-SACCL-CN
+last-modified:  2021-01-25T21:57:43Z
+source:         APNIC
+
+organisation:   ORG-SACC1-AP
+org-name:       Shenzhen Aosida Communication Co., Ltd.
+country:        CN
+address:        6 Gaoxin South 1st Rd,
+address:        TCL Building,
+address:        Nanshan Qu,
+phone:          +86-0755-86158808
+fax-no:         +86-0755-86158800
+e-mail:         sherry998877@163.com
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2019-06-12T12:58:15Z
+source:         APNIC
+
+role:           ABUSE SACCLCN
+address:        808,8th Building,No 4 Nanyou Industry,NanShan District, ShenZhen Guangdong Province 518000
+country:        ZZ
+phone:          +000000000
+e-mail:         sherry998877@163.com
+admin-c:        SACC1-AP
+tech-c:         SACC1-AP
+nic-hdl:        AS2945-AP
+remarks:        Generated from irt object IRT-SACCL-CN
+abuse-mailbox:  sherry998877@163.com
+mnt-by:         APNIC-ABUSE
+last-modified:  2021-01-10T21:57:39Z
+source:         APNIC
+
+role:           Shenzhen Aosida Communication Co Ltd administra
+address:        808,8th Building,No 4 Nanyou Industry,NanShan District, ShenZhen Guangdong Province 518000
+country:        CN
+phone:          +86-0755-86158808
+fax-no:         +86-0755-86158808
+e-mail:         sherry998877@163.com
+admin-c:        SACC1-AP
+tech-c:         SACC1-AP
+nic-hdl:        SACC1-AP
+mnt-by:         MAINT-SACCL-CN
+last-modified:  2014-06-03T05:04:27Z
+source:         APNIC
+
+% Information related to '114.119.0.0/17AS17816'
+
+route:          114.119.0.0/17
+descr:          China Unicom CHINA169 Guangdong Province network
+descr:          Addresses from CNNIC
+country:        CN
+origin:         AS17816
+mnt-by:         MAINT-CNCGROUP-RR
+last-modified:  2009-02-02T03:25:12Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.16 (WHOIS-US4)
+
+
