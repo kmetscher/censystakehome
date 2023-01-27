@@ -21,7 +21,6 @@ to use NGINX as a reverse proxy, and to use the same HTTP port 80 for external c
 ## 2: Summary report of similar hosts 
 The primary identifying characteristics of this host are:
 
-- A Linux/Unix-like operating system,
 - The NGINX web server,
 - Atlassian Confluence running behind the NGINX reverse proxy,
 - and its location in China.
