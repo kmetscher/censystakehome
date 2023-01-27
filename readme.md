@@ -25,4 +25,7 @@ The primary identifying characteristics of this host are:
 - Atlassian Confluence running behind the NGINX reverse proxy,
 - and its location in China.
 
+By querying Censys hosts for servers in China running NGINX with a service banner of Confluence returning OK HTTP status codes, we can enumerate hosts and services and further break them down by protocol.
+The returned query makes it possible to then parse for the Confluence version number located within the meta tags of the HTML response by regular expression. This process can be observed in the `report.py` file;
+I apologize for the spaghetti therein, I usually prefer to do parsing work in other languages!
 

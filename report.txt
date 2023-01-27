@@ -1,0 +1,698 @@
+1.13.255.132
+    Confluence version no: 7.13.3
+    Port: 80
+    Protocol: HTTP
+1.14.125.24
+    Confluence version no: 7.2.0
+    Port: 8085
+    Protocol: HTTP
+1.15.233.211
+    Confluence version no: 7.4.1
+    Port: 8886
+    Protocol: HTTP
+1.14.16.218
+    Confluence version no: 6.3.1
+    Port: 8090
+    Protocol: HTTP
+1.71.191.134
+1.117.236.251
+    Confluence version no: 7.17.2
+    Port: 80
+    Protocol: HTTP
+    Confluence version no: 7.17.2
+    Port: 443
+    Protocol: HTTPS
+1.116.4.158
+    Confluence version no: 7.17.0
+    Port: 80
+    Protocol: HTTP
+    Confluence version no: 7.17.0
+    Port: 8090
+    Protocol: HTTP
+1.202.249.120
+    Confluence version no: 7.13.0
+    Port: 443
+    Protocol: HTTPS
+8.130.23.182
+    Confluence version no: 6.3.1
+    Port: 8090
+    Protocol: HTTP
+1.202.174.33
+    Confluence version no: 7.13.11
+    Port: 8090
+    Protocol: HTTP
+8.129.163.177
+1.203.110.124
+8.134.36.59
+    Confluence version no: 7.15.2
+    Port: 7070
+    Protocol: HTTP
+1.15.56.9
+    Confluence version no: 7.4.6
+    Port: 8090
+    Protocol: HTTP
+8.134.78.253
+    Confluence version no: 7.4.11
+    Port: 80
+    Protocol: HTTP
+8.136.101.124
+    Confluence version no: 7.13.0
+    Port: 8588
+    Protocol: HTTP
+8.130.22.221
+    Confluence version no: 6.7.1
+    Port: 8183
+    Protocol: HTTP
+8.129.118.133
+    Confluence version no: 8.1.0
+    Port: 8080
+    Protocol: HTTP
+    Confluence version no: 7.4.6
+    Port: 8090
+    Protocol: HTTP
+8.134.67.172
+    Confluence version no: 7.13.5
+    Port: 443
+    Protocol: HTTPS
+8.140.39.216
+    Confluence version no: 6.7.1
+    Port: 8090
+    Protocol: HTTP
+8.141.162.138
+    Confluence version no: 7.4.17
+    Port: 443
+    Protocol: HTTPS
+8.129.6.85
+    Confluence version no: 7.16.5
+    Port: 9001
+    Protocol: HTTP
+8.130.12.150
+    Confluence version no: 7.13.12
+    Port: 443
+    Protocol: HTTPS
+    Confluence version no: 7.3.8
+    Port: 8086
+    Protocol: HTTP
+    Confluence version no: 7.13.12
+    Port: 8095
+    Protocol: HTTP
+8.141.54.97
+    Confluence version no: 7.11.1
+    Port: 8090
+    Protocol: HTTP
+8.142.26.149
+    Confluence version no: 7.15.1
+    Port: 18090
+    Protocol: HTTP
+1.14.142.146
+    Confluence version no: 7.13.2
+    Port: 80
+    Protocol: HTTP
+    Confluence version no: 7.13.2
+    Port: 8090
+    Protocol: HTTP
+8.142.75.20
+    Confluence version no: 7.13.6
+    Port: 8090
+    Protocol: HTTP
+8.130.16.93
+    Confluence version no: 7.20.0
+    Port: 443
+    Protocol: HTTPS
+    Confluence version no: 7.20.0
+    Port: 18090
+    Protocol: HTTP
+8.142.109.121
+    Confluence version no: 7.3.3
+    Port: 18090
+    Protocol: HTTP
+    Confluence version no: 7.8.1
+    Port: 19090
+    Protocol: HTTP
+27.42.165.163
+8.144.172.104
+    Confluence version no: 8.20.3
+    Port: 8000
+    Protocol: HTTP
+    Confluence version no: 7.14.3
+    Port: 8090
+    Protocol: HTTP
+1.202.233.106
+    Confluence version no: 7.13.0
+    Port: 10083
+    Protocol: HTTP
+    Confluence version no: 8.16.1
+    Port: 18096
+    Protocol: HTTP
+8.141.172.102
+    Confluence version no: 8.0.2
+    Port: 443
+    Protocol: HTTPS
+    Confluence version no: 8.0.2
+    Port: 8080
+    Protocol: HTTP
+    Confluence version no: 6.6.12
+    Port: 8090
+    Protocol: HTTP
+8.142.138.27
+    Confluence version no: 9.0.0
+    Port: 8433
+    Protocol: HTTPS
+8.135.113.65
+    Confluence version no: 7.4.6
+    Port: 8090
+    Protocol: HTTP
+8.142.114.115
+    Confluence version no: 6.10.0
+    Port: 905
+    Protocol: HTTP
+14.29.87.39
+    Confluence version no: 7.13.12
+    Port: 8090
+    Protocol: HTTP
+27.154.111.55
+    Confluence version no: 7.19.1
+    Port: 8090
+    Protocol: HTTP
+36.110.69.186
+39.97.119.19
+    Confluence version no: 7.13.7
+    Port: 443
+    Protocol: HTTPS
+36.112.85.238
+    Confluence version no: 7.6.2
+    Port: 56789
+    Protocol: HTTP
+36.152.34.218
+14.23.47.110
+    Confluence version no: 7.7.3
+    Port: 6010
+    Protocol: HTTP
+39.98.62.218
+    Confluence version no: 6.15.10
+    Port: 8090
+    Protocol: HTTP
+8.142.109.158
+    Confluence version no: 7.15.0
+    Port: 8090
+    Protocol: HTTP
+39.96.53.93
+    Confluence version no: 7.18.1
+    Port: 8090
+    Protocol: HTTP
+36.152.29.211
+    Confluence version no: 6.15.4
+    Port: 8090
+    Protocol: HTTP
+27.115.49.42
+    Confluence version no: 7.8.1
+    Port: 8082
+    Protocol: HTTP
+    Confluence version no: 6.7.1
+    Port: 18091
+    Protocol: HTTP
+39.97.232.190
+    Confluence version no: 8.4.1
+    Port: 443
+    Protocol: HTTPS
+    Confluence version no: 8.20.2
+    Port: 8080
+    Protocol: HTTP
+    Confluence version no: 7.15.0
+    Port: 8090
+    Protocol: HTTP
+    Confluence version no: 8.4.1
+    Port: 8180
+    Protocol: HTTP
+36.112.75.114
+    Confluence version no: 7.4.3
+    Port: 9004
+    Protocol: HTTP
+39.98.204.171
+    Confluence version no: 6.3.1
+    Port: 8090
+    Protocol: HTTP
+39.98.154.89
+    Confluence version no: 7.3.1
+    Port: 443
+    Protocol: HTTPS
+36.249.159.67
+    Confluence version no: 7.13.18
+    Port: 9082
+    Protocol: HTTP
+    Confluence version no: 7.13.7
+    Port: 9083
+    Protocol: HTTP
+39.100.68.200
+39.99.252.23
+    Confluence version no: 7.2.0
+    Port: 8090
+    Protocol: HTTP
+39.98.185.157
+    Confluence version no: 8.13.0
+    Port: 443
+    Protocol: HTTPS
+    Confluence version no: 8.13.0
+    Port: 8080
+    Protocol: HTTP
+    Confluence version no: 7.13.0
+    Port: 8090
+    Protocol: HTTP
+39.101.74.184
+    Confluence version no: 7.20.2
+    Port: 80
+    Protocol: HTTP
+    Confluence version no: 7.20.2
+    Port: 8866
+    Protocol: HTTP
+39.100.65.239
+    Confluence version no: 7.15.0
+    Port: 8090
+    Protocol: HTTP
+39.99.165.47
+    Confluence version no: 7.19.0
+    Port: 8090
+    Protocol: HTTP
+    Confluence version no: 9.1.0
+    Port: 8888
+    Protocol: HTTP
+39.99.240.155
+    Confluence version no: 7.11.1
+    Port: 8090
+    Protocol: HTTP
+39.98.230.133
+39.98.238.183
+    Confluence version no: 7.18.1
+    Port: 8090
+    Protocol: HTTP
+39.100.247.221
+    Confluence version no: 8.20.7
+    Port: 8080
+    Protocol: HTTP
+    Confluence version no: 7.19.4
+    Port: 8090
+    Protocol: HTTP
+39.102.58.47
+    Confluence version no: 7.4.6
+    Port: 8090
+    Protocol: HTTP
+39.101.207.34
+39.104.112.249
+    Confluence version no: 7.4.8
+    Port: 10254
+    Protocol: HTTP
+39.102.90.109
+    Confluence version no: 6.10.0
+    Port: 8090
+    Protocol: HTTP
+39.104.101.127
+39.104.99.34
+    Confluence version no: 7.13.0
+    Port: 8090
+    Protocol: HTTP
+39.103.230.224
+    Confluence version no: 7.13.4
+    Port: 80
+    Protocol: HTTP
+39.98.142.246
+    Confluence version no: 8.13.4
+    Port: 8082
+    Protocol: HTTP
+    Confluence version no: 7.16.2
+    Port: 8090
+    Protocol: HTTP
+39.101.163.134
+    Confluence version no: 7.8.3
+    Port: 18090
+    Protocol: HTTP
+39.98.179.82
+    Confluence version no: 5.8.10
+    Port: 443
+    Protocol: HTTPS
+    Confluence version no: 5.8.10
+    Port: 8090
+    Protocol: HTTP
+39.105.198.22
+    Confluence version no: 6.15.3
+    Port: 443
+    Protocol: HTTPS
+39.106.33.108
+    Confluence version no: 7.4.7
+    Port: 8090
+    Protocol: HTTP
+39.106.189.58
+    Confluence version no: 5.1.2
+    Port: 8090
+    Protocol: HTTP
+39.105.114.108
+    Confluence version no: 7.9.3
+    Port: 8190
+    Protocol: HTTP
+39.104.17.124
+    Confluence version no: 7.10.1
+    Port: 443
+    Protocol: HTTPS
+39.107.42.114
+    Confluence version no: 7.13.0
+    Port: 443
+    Protocol: HTTPS
+39.105.210.213
+    Confluence version no: 6.8.5
+    Port: 8090
+    Protocol: HTTP
+39.104.162.143
+    Confluence version no: 7.15.0
+    Port: 8090
+    Protocol: HTTP
+39.105.67.202
+    Confluence version no: 7.13.7
+    Port: 50103
+    Protocol: HTTP
+39.105.149.199
+    Confluence version no: 7.4.18
+    Port: 80
+    Protocol: HTTP
+    Confluence version no: 7.4.18
+    Port: 8090
+    Protocol: HTTP
+39.106.68.226
+    Confluence version no: 7.9.3
+    Port: 18010
+    Protocol: HTTP
+27.154.242.142
+    Confluence version no: 7.2.1
+    Port: 42424
+    Protocol: HTTP
+39.107.88.35
+39.107.10.136
+    Confluence version no: 7.2.3
+    Port: 8080
+    Protocol: HTTP
+    Confluence version no: 7.4.17
+    Port: 8090
+    Protocol: HTTP
+39.107.102.94
+    Confluence version no: 8.2.4
+    Port: 8080
+    Protocol: HTTP
+    Confluence version no: 7.19.4
+    Port: 8090
+    Protocol: HTTP
+39.103.149.239
+    Confluence version no: 6.3.1
+    Port: 8090
+    Protocol: HTTP
+    Confluence version no: 6.3.6
+    Port: 8092
+    Protocol: HTTP
+39.107.45.102
+    Confluence version no: 7.13.7
+    Port: 9000
+    Protocol: HTTP
+39.107.159.215
+    Confluence version no: 7.12.0
+    Port: 8089
+    Protocol: HTTP
+    Confluence version no: 7.4.3
+    Port: 8090
+    Protocol: HTTP
+39.108.60.68
+    Confluence version no: 7.13.0
+    Port: 80
+    Protocol: HTTP
+    Confluence version no: 7.13.0
+    Port: 8090
+    Protocol: HTTP
+39.105.72.0
+    Confluence version no: 7.13.4
+    Port: 8090
+    Protocol: HTTP
+39.107.226.3
+    Confluence version no: 7.13.7
+    Port: 80
+    Protocol: HTTP
+39.108.74.208
+    Confluence version no: 6.9.0
+    Port: 80
+    Protocol: HTTP
+39.107.126.231
+    Confluence version no: 6.9.0
+    Port: 8090
+    Protocol: HTTP
+    Confluence version no: 7.12.3
+    Port: 11112
+    Protocol: HTTP
+39.107.239.65
+    Confluence version no: 7.13.8
+    Port: 443
+    Protocol: HTTPS
+39.108.163.134
+    Confluence version no: 7.12.2
+    Port: 8090
+    Protocol: HTTP
+39.108.153.82
+    Confluence version no: 9.2.0
+    Port: 22090
+    Protocol: HTTP
+    Confluence version no: 7.9.3
+    Port: 22091
+    Protocol: HTTP
+39.107.12.248
+    Confluence version no: 7.2.0
+    Port: 18010
+    Protocol: HTTP
+Confluence versions 
+    7.13.3
+        Hosts:
+            HTTP: 1
+    Services: 1
+    7.2.0
+        Hosts:
+            HTTP: 2
+    Services: 3
+    7.4.1
+        Hosts:
+            HTTP: 1
+    Services: 1
+    6.3.1
+        Hosts:
+            HTTP: 2
+    Services: 4
+    7.17.2
+        Hosts:
+            HTTPS: 1
+    Services: 2
+    7.17.0
+        Hosts:
+            HTTP: 1
+    Services: 2
+    7.13.0
+        Hosts:
+            HTTPS: 1
+            HTTP: 5
+    Services: 8
+    7.13.11
+        Hosts:
+            HTTPS: 1
+    Services: 1
+    7.15.2
+    Services: 1
+    7.4.6
+        Hosts:
+            HTTP: 4
+    Services: 4
+    7.4.11
+    Services: 1
+    6.7.1
+        Hosts:
+            HTTP: 3
+    Services: 3
+    8.1.0
+    Services: 1
+    7.13.5
+        Hosts:
+            HTTPS: 1
+    Services: 1
+    7.4.17
+        Hosts:
+            HTTPS: 1
+    Services: 2
+    7.16.5
+    Services: 1
+    7.13.12
+    Services: 3
+    7.3.8
+    Services: 1
+    7.11.1
+        Hosts:
+            HTTP: 2
+    Services: 2
+    7.15.1
+        Hosts:
+            HTTP: 1
+    Services: 1
+    7.13.2
+    Services: 2
+    7.13.6
+        Hosts:
+            HTTP: 1
+    Services: 1
+    7.20.0
+    Services: 2
+    7.3.3
+    Services: 1
+    7.8.1
+    Services: 2
+    8.20.3
+    Services: 1
+    7.14.3
+        Hosts:
+            HTTP: 1
+    Services: 1
+    8.16.1
+        Hosts:
+            HTTP: 1
+    Services: 1
+    8.0.2
+    Services: 2
+    6.6.12
+        Hosts:
+            HTTP: 1
+    Services: 1
+    9.0.0
+        Hosts:
+            HTTPS: 1
+    Services: 1
+    6.10.0
+        Hosts:
+            HTTP: 1
+    Services: 2
+    7.19.1
+        Hosts:
+            HTTP: 1
+    Services: 1
+    7.13.7
+        Hosts:
+            HTTPS: 1
+            HTTP: 4
+    Services: 5
+    7.6.2
+        Hosts:
+            HTTP: 1
+    Services: 1
+    7.7.3
+        Hosts:
+            HTTP: 1
+    Services: 1
+    6.15.10
+        Hosts:
+            HTTP: 1
+    Services: 1
+    7.15.0
+        Hosts:
+            HTTP: 3
+    Services: 4
+    7.18.1
+        Hosts:
+            HTTP: 1
+    Services: 2
+    6.15.4
+        Hosts:
+            HTTP: 1
+    Services: 1
+    8.4.1
+        Hosts:
+            HTTP: 1
+    Services: 2
+    8.20.2
+    Services: 1
+    7.4.3
+        Hosts:
+            HTTP: 2
+    Services: 2
+    7.3.1
+        Hosts:
+            HTTPS: 1
+    Services: 1
+    7.13.18
+    Services: 1
+    8.13.0
+    Services: 2
+    7.20.2
+        Hosts:
+            HTTP: 1
+    Services: 2
+    7.19.0
+    Services: 1
+    9.1.0
+    Services: 1
+    8.20.7
+    Services: 1
+    7.19.4
+        Hosts:
+            HTTP: 2
+    Services: 2
+    7.4.8
+        Hosts:
+            HTTP: 1
+    Services: 1
+    7.13.4
+        Hosts:
+            HTTP: 2
+    Services: 2
+    8.13.4
+    Services: 1
+    7.16.2
+    Services: 1
+    7.8.3
+        Hosts:
+            HTTP: 1
+    Services: 1
+    5.8.10
+    Services: 2
+    6.15.3
+        Hosts:
+            HTTP: 1
+    Services: 1
+    7.4.7
+        Hosts:
+            HTTP: 1
+    Services: 1
+    5.1.2
+    Services: 1
+    7.9.3
+        Hosts:
+            HTTP: 3
+    Services: 3
+    7.10.1
+    Services: 1
+    6.8.5
+    Services: 1
+    7.4.18
+    Services: 2
+    7.2.1
+        Hosts:
+            HTTPS: 1
+    Services: 1
+    7.2.3
+    Services: 1
+    8.2.4
+    Services: 1
+    6.3.6
+    Services: 1
+    7.12.0
+    Services: 1
+    6.9.0
+        Hosts:
+            HTTP: 1
+    Services: 2
+    7.12.3
+    Services: 1
+    7.13.8
+        Hosts:
+            HTTPS: 1
+    Services: 1
+    7.12.2
+    Services: 1
+    9.2.0
+    Services: 1
