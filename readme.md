@@ -29,3 +29,19 @@ By querying Censys hosts for servers in China running NGINX with a service banne
 The returned query makes it possible to then parse for the Confluence version number located within the meta tags of the HTML response by regular expression. This process can be observed in the `report.py` file;
 I apologize for the spaghetti therein, I usually prefer to do parsing work in other languages!
 
+## 3: Count the number of vulnerable hosts
+Confluence, and most Atlassion software, is an attractive starting point for threat actors seeking to gain access to corporate networks. [CVE 2022-26134](https://nvd.nist.gov/vuln/detail/CVE-2022-26134) was disclosed June 30, 2022. It is a critical
+severity remote code execution (RCE) vulnerability affecting the all versions of Confluence from 1.3.0 to 7.4.17, and the following minor releases of version 7 (inclusive lower, exclusive upper):
+
+- 7.13.0 to 7.13.7
+- 7.14.0 to 7.14.3
+- 7.15.0 to 7.15.2
+- 7.16.0 to 7.16.4
+- 7.17.0 to 7.17.4
+- 7.18.0 to 7.18.1
+
+Versions 8 and greater are not known to be vulnerable to this specific exploit at this time.
+
+A brief parse job of the version numbers obtained from the report generated in section 2 allows us to compare each version number to those named in the CVE and provide us with a final count of the number of hosts vulnerable in this scan,
+which by my count is 52. This comparison could also be done during the scanning phase on a per-host basis which would provide for some additional granularity, and would be of benefit to an organization
+conducting reconnaissance or audits on its own networks. This count was made by the vulncount.go script.
