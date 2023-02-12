@@ -31,7 +31,7 @@ I apologize for the spaghetti therein, I usually prefer to do parsing work in ot
 
 ## 3: Count the number of vulnerable hosts
 Confluence, and most Atlassion software, is an attractive starting point for threat actors seeking to gain access to corporate networks. [CVE 2022-26134](https://nvd.nist.gov/vuln/detail/CVE-2022-26134) was disclosed June 30, 2022. It is a critical
-severity remote code execution (RCE) vulnerability affecting the all versions of Confluence from 1.3.0 to 7.4.17, and the following minor releases of version 7 (inclusive lower, exclusive upper):
+severity remote code execution (RCE) vulnerability affecting all versions of Confluence from 1.3.0 to 7.4.17, and the following minor releases of version 7 (inclusive lower, exclusive upper):
 
 - 7.13.0 to 7.13.7
 - 7.14.0 to 7.14.3
