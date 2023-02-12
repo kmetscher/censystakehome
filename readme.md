@@ -44,4 +44,4 @@ Versions 8 and greater are not known to be vulnerable to this specific exploit a
 
 A brief parse job of the version numbers obtained from the report generated in section 2 allows us to compare each version number to those named in the CVE and provide us with a final count of the number of hosts vulnerable in this scan,
 which by my count is 52. This comparison could also be done during the scanning phase on a per-host basis which would provide for some additional granularity, and would be of benefit to an organization
-conducting reconnaissance or audits on its own networks. This count was made by the vulncount.go script.
+conducting reconnaissance or audits on its own networks. This count was made by the `vulncount.go` script.
